@@ -9,7 +9,7 @@ We can view the summary statistics tables below to understand the differences be
 ![Decembber_temps](December_Temps.png)    ![June_temps](June_Temps.png)
 
 As you can see from the statistics, there are a few minor, but key differences between the two months.
-1. The average temperature in December is about 5 degrees cooler than in June. However ,this difference would not likely cause anyone to not buy an ice cream cone or want to go surfing!
+1. The average temperature in December is about 4 degrees cooler than in June. However ,this difference would not likely cause anyone to not buy an ice cream cone or want to go surfing!
    
 2. The minimum temperature is 56 degrees in December while it is 64 degrees in June. However, 56 degrees may not be considered cold, especially in warmer Pacific waters, plus wearing a basic wetsuit could help the surfer maintain his/her body temperature. 
 
